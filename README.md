@@ -1,4 +1,4 @@
-# (R)ead-(C)opy-update
+# (R)ead-(C)opy-Update
 read copy update map for golang 1.18+
 
 ## How it works
